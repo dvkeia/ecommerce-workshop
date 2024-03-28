@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.custom-size {
+    width: 275 px;
+    height: 300px;
+}
